@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+*.rfa
+*.rvt
+*.rvt.*
+*.zip
+.env
+Reports/
+*backup*/

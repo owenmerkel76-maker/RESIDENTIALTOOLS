@@ -1,0 +1,7 @@
+title: "Material List"
+tooltip: "Create Revit schedules, export one priced materials CSV, or review Lowe's/Home Depot prices for ZIP 19464."
+author: "RESIDENTIALTOOLS"
+min_revit_version: 2025
+max_revit_version: 2027
+engine:
+  clean: true

@@ -1,0 +1,5 @@
+{
+  "inspected_read_only": [],
+  "note": "Local legacy-source paths excluded from publication. Runtime has no dependency on those folders.",
+  "publication_note": "LUMBER_LIBRARY.md local installation path removed. Preservation hashes reflect this public documentation baseline; runtime source files are unchanged."
+}
